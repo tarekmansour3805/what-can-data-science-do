@@ -1,0 +1,4 @@
+1. get the highest number of views and purchases for each product, in order to figure our which product has the highest number of likes
+2. the most common step that user's leave at, find the time we had the highest number of client's, lookup against marketing spends.
+3. rank based on both pricing and availability use session info to determine whether users have made a booking
+4. create a lookup against every users login and 
